@@ -1,0 +1,10 @@
+C:\Base\Programming\C#\HelpR\HelpR\bin\Debug\HelpR.exe.config
+C:\Base\Programming\C#\HelpR\HelpR\bin\Debug\HelpR.exe
+C:\Base\Programming\C#\HelpR\HelpR\bin\Debug\HelpR.pdb
+C:\Base\Programming\C#\HelpR\HelpR\obj\Debug\HelpR.csproj.AssemblyReference.cache
+C:\Base\Programming\C#\HelpR\HelpR\obj\Debug\HelpR.Properties.Resources.resources
+C:\Base\Programming\C#\HelpR\HelpR\obj\Debug\HelpR.csproj.GenerateResource.cache
+C:\Base\Programming\C#\HelpR\HelpR\obj\Debug\HelpR.csproj.CoreCompileInputs.cache
+C:\Base\Programming\C#\HelpR\HelpR\obj\Debug\HelpR.exe
+C:\Base\Programming\C#\HelpR\HelpR\obj\Debug\HelpR.pdb
+C:\Base\Programming\C#\HelpR\HelpR\obj\Debug\HelpR.Form1.resources
